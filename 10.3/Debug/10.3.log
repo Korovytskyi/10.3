@@ -1,0 +1,4 @@
+﻿  10.3.cpp
+E:\pr\10.3\10.3\10.3.cpp(47,11): warning C4091: '': ignored on left of 'std::basic_ofstream<char,std::char_traits<char>>' when no variable is declared
+E:\pr\10.3\10.3\10.3.cpp(48,2): error C2065: 'outfile': undeclared identifier
+E:\pr\10.3\10.3\10.3.cpp(50,3): error C2065: 'outfile': undeclared identifier
